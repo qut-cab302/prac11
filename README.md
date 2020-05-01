@@ -28,7 +28,7 @@ Some tasks:
 ## Exercise - Dining Philosophers
 
 Run the code provided in the lecture for the Dining Philosopher's problem, and see what responses appear. Try it 
-three or four times so that you get a feel for the programme and some of the difficulties which emerge. 
+three or four times so that you get a feel for the program, and some difficulties which emerge. 
 
 Now try to fix this source code. The fix will have to take place in `Philosopher.java`. There are different ways to 
 fix this:
