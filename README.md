@@ -33,8 +33,7 @@ three or four times so that you get a feel for the program, and the difficulties
 Now try to fix this source code. The fix will have to take place in `Philosopher.java`. There are different ways to 
 fix this:
 
-  - Flip a coin - Use a random number generator (https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/Random.html) to   
-return a random Boolean that decides whether to pick up the first fork.
+  - Flip a coin - Use a random number generator to return a random Boolean that decides whether to pick up the first fork.
   - Look before you leap - Check if the second fork is available. If not put down the first fork. Does this lead to any other possible 
   problems? 
   
