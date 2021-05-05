@@ -1,7 +1,7 @@
 CAB302 Software Development
 ===========================
 
-# Week 9 - Threads
+# Week 10 - Threads
 
 The classes for this week are about threads, `Thread` objects, inheriting from the `Thread` class, and implementing the 
 `Runnable` interface. Mostly, we are interested in you playing with the code from the lecture (available on Blackboard).
@@ -38,4 +38,4 @@ fix this:
   problems? 
   
 If you are interested in pursuing this problem further, keep track of the number of times that each philosopher gets
- to eat. Is the sharing of the food fair i.e. do they each get to eat about the same number of times?
+ to eat. Is the sharing of the food fair; i.e. do they each get to eat about the same number of times?
