@@ -1,7 +1,7 @@
 CAB302 Software Development
 ===========================
 
-# Week 10 - Threads
+# Week 11 - Threads
 
 The classes for this week are about threads, `Thread` objects, inheriting from the `Thread` class, and implementing the 
 `Runnable` interface. Mostly, we are interested in you playing with the code from the lecture (available on Blackboard).
@@ -23,7 +23,6 @@ Some tasks:
   - Change some of the data and times in `ScheduleTasks` to see the effect of the `Timer` class.
   - Alter the pause times on the messages in `JumbledMessage` to see the effect, in both the unsynchronized and 
   synchronized versions.
-
 
 ## Exercise - Dining Philosophers
 
